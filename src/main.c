@@ -1,7 +1,11 @@
 /*
- * This file is part of the libopencm3 project.
+ * 
+ * This file is part of the PlatformIO-STM32F4Discovery-USBMIDI-Example project.
+ * It is heavily based on the libopencm3 example for USB MIDI devices:
+ * https://github.com/libopencm3/libopencm3-examples/tree/master/examples/stm32/f4/stm32f4-discovery/usb_midi
  *
  * Copyright (C) 2014 Daniel Thompson <daniel@redfelineninja.org.uk>
+ * Copyright (C) 2019 Uli Köhler <ukoehler@techoverflow.net>
  *
  * This library is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Lesser General Public License as published by
